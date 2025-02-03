@@ -2,5 +2,5 @@
 
 ## Sitemap 
 
-![IMG](FlowDiagrams)
+![IMG](https://raw.githubusercontent.com/alexandrglm/UX-Project/refs/heads/main/DevCamp-SupportAddedValue-UX-Flowcharts.png)
 
